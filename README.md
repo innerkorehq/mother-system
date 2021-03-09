@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Mother Design System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is there to create Mother [Design System](https://en.wikipedia.org/wiki/Design_system). The Goal of this project is to create a design system that can be plugged into higher level components. Component repo of this will contain higher level components that could be same for all the design system created by forking this Repo. 
+
+Basic workflow will be get/create design system by forking/modifying this repo and integrate it with Component Repo to get bunch of components. 
+
 
 ## Available Scripts
 
@@ -41,6 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- To learn React, check out the [React documentation](https://reactjs.org/).
+- Learn TypeScript [youtube](https://www.youtube.com/watch?v=WBPrJSw7yQA)
+- To learn Design System, check out the [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/).
+- What is Design Systems? [youtube](https://www.youtube.com/watch?v=wc5krC28ynQ)
+- What the #&%$ are Design Tokens? [youtube](https://www.youtube.com/watch?v=wtTstdiBuUk) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
